@@ -20,8 +20,7 @@ export default function App() {
 
       <footer className="py-8 bg-zinc-950 text-center border-t border-zinc-900">
         <p className="text-gray-500 text-sm">
-          © {new Date().getFullYear()} Mohammad Shadathusen Rolli.
-          <span className="hidden md:inline"> Built with React, Three.js & Tailwind.</span>
+          © {new Date().getFullYear()} Mohammad Shadathusen Rolli
         </p>
       </footer>
     </div>
